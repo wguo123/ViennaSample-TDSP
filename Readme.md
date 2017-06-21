@@ -34,3 +34,4 @@ This is an **early preview (Sept 2016)** release of [TDSP](https://github.com/Az
 ## Ask Questions. 
 We would love to hear back from you. Should you have any questions or suggestions, please create a new discussion thread on the [Issues Tab](https://github.com/Azure/Microsoft-TDSP/issues).
 
+Thanks
